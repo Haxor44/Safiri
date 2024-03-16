@@ -20,9 +20,12 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#ffffff",
+        "package":"com.safiri.safiriApp",
+        "googleMapsApiKey":"AIzaSyD4DzbQP03AeFLCkXER8lIPlmrESPv9s98"
       }
     },
+    
     "web": {
       "favicon": "./assets/favicon.png"
     }
